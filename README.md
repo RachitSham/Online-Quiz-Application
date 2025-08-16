@@ -1,5 +1,11 @@
 # Online-Quiz-Application
 
+🌟 Purpose
+
+🔹 Built a console-based Online Quiz Application in Java.
+
+🔹 Objective: Test users with multiple-choice questions, collect answers, and provide score + feedback.
+
 🌟  Code Flow:
 
 🔹  Main class starts → Initialize QuizService.
